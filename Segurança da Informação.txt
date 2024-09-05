@@ -1,0 +1,54 @@
+Exercício 1 - Segurança da Informação: Identificação de Phishing
+
+1. Análise do E-mail:
+
+	• Endereço de e-mail do remetente: O endereço do remetente 
+		não foi fornecido, mas é fundamental verificar 
+		se ele é legitimo isso é um sinal de phishig
+
+	• Links e URLs: Links falsos geralmente 
+		levam a domínios suspeitos que não correspondem 
+		ao site oficial do Instagram.
+
+	• Erros de gramática e ortografia: apresenta problemas 
+		claros de repetição de palavras o Instagram 
+		costuma enviar e-mails profissionais, sem erros 
+		gramaticais.
+
+	• Solicitações urgentes: O e-mail usa táticas de urgência 
+		ao dizer que vocênão poderá acessar certas 
+		configurações da conta.Esse tipo de pressão 
+		é uma tática comum em golpes de phishing para 
+		fazer com que o usuário aja rapidamente.
+
+	• Inconsistências de Marca: O conteúdo do e-mail não 
+		segue o estilo e a linguagem oficial de 
+		comunicações anteriores do Instagram.
+
+2. Criação do Documento ou Imagem:
+	
+	
+
+3. Resposta e Ações Recomendadas:
+
+	•Identificação do Problema: O e-mail apresenta sinais 
+		claros de phishing, como erro gramatical, táticas
+		de urgência, e inconsistências na marca.
+
+	• Ações Recomendadas: Não clicar em nenhum link suspeito
+
+	•Assistência: Se você suspeitar que sua conta foi 
+		comprometida, entre em contato diretamente 
+		com o suporte do Instagram.
+
+	•Educação Sobre Segurança: tenha muito cuidado quando 
+		com esse email falso que você pode se dar muito 
+		mal, olhe bem antes de clicar nesses email lei 	
+		atenciosamente para indentificar os erros de 
+		digitaçao palavras reptidas.
+•
+•
+•
+•
+•
+		
